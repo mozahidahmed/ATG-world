@@ -5,7 +5,7 @@ const Banner = () => {
         <div className='banner-title background-banner'>
             <div className='banner-text'>
                 <p style={{whiteSpace: 'nowrap'}} className='text-white fs-2 fs-sm-6 fw-bold lh-1'>Computer Engineering</p>
-                <p className='text-white lh-1'>142,765 Computer Engineers follow this</p>
+                <p className='text-white lh-1'>142,7654 Computer Engineers follow this</p>
             </div>
         </div>
     );
